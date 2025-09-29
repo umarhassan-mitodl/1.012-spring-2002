@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/91dc286ac4521a8dcb419dba856adede_bostonpeninsulasmall.jpg
 file_size: 131104
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

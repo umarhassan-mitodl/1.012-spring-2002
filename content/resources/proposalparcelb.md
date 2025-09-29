@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/79d44237bcf56d5a647e157c9d346835_proposalparcelb.gif
 file_size: 184328
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

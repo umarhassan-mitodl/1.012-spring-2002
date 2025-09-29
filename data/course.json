@@ -27,6 +27,7 @@
     "website": "1-012-introduction-to-civil-engineering-design-spring-2002"
   },
   "course_title": "Introduction to Civil Engineering Design",
+  "hide_download": true,
   "course_description": "1.012 introduces students to the theory, tools, and techniques of engineering design and creative problem-solving, as well as design issues and practices in civil engineering. The course includes several design cases, with an emphasis on built facilities (e.g., buildings, bridges and roads). Project design explicitly concerns technical approaches as well as consideration of the existing built environment, natural environment, economic and social factors, and expected life span. A large design case is introduced, which is used in the subsequent specialty area design subjects (1.031, 1.041,\u00a01.051) and the capstone design subject (1.013).",
   "department_numbers": [
     "1"
@@ -37,6 +38,7 @@
     "content": "e26f6ae1-d8d7-ab50-e725-005779dd8fc2",
     "website": "1-012-introduction-to-civil-engineering-design-spring-2002"
   },
+  "hide_download_original": null,
   "learning_resource_types": [],
   "site_uid": "911db7a1-1ab2-4c89-873b-b9a31e9eab7b",
   "site_short_id": "1.012-spring-2002",
