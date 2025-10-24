@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/b4a87b8614388b19b2d37eb8cc378969_screening_matrix.jpg
 file_size: 42028
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

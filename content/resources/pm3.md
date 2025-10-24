@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/3a8dc17db2a138facfb8c25de0a97085_pm3.jpg
 file_size: 63261
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

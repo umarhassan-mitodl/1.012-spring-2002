@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/aa41bc804bb61df3f7367c04508c6fb6_parcelsa_b.gif
 file_size: 202562
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

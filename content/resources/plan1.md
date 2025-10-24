@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/870401cb6910fbe104792d5c9be70def_plan1.gif
 file_size: 156292
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

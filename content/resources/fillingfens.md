@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/c9c972a0b70181d7e151facf7006a65d_fillingfens.jpg
 file_size: 58900
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
